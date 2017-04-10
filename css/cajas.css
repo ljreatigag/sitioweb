@@ -1,0 +1,36 @@
+div{
+	background: #ff8000;
+}
+
+#cabecera{
+	height: 120px;
+	overflow: auto;
+	text-align: center;
+}
+
+#lateral{
+	width: 50%;
+
+}
+
+#destacado{
+	margin: 2em;
+	padding: 1em;
+	font-size: 20px;
+}
+.espaciado{
+	padding: 2em;
+	background: rgba(255,255,0,0.5);
+	height: 150px;
+	overflow: auto;
+	border: 2px solid #000;
+}
+
+img{
+	float: left;
+	padding: .5em;
+}
+
+br{
+	clear: both;
+}
