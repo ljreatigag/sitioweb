@@ -1,25 +1,18 @@
-#contenedor{
-	width: 728px;
-	height: auto;
-	margin: auto;
-	position: relative;
-	background: #005883;
 
-}
-.social{
+#social{
 	position: fixed;
 	left: 0;
 	top: 200px;
 	z-index: 2000;
 
 }
-.social ul{
+#social ul{
 
 	list-style: none;
 
 }
 
-.social ul li a{
+#social ul li a{
 	display: inline-block;
 	color: #fff;
 	background: #000;
@@ -33,6 +26,15 @@
 .social ul li .icon-googleplus{background:#d95232;}
 .social ul li .icon-skype{background:#008db8;}
 .social ul li .icon-instagram{background:#b85f00;}
+
+#contenedor{
+	width: 728px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	background: #005883;
+
+}
 
 body
 	{
