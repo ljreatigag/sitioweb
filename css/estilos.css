@@ -27,8 +27,13 @@
 .social ul li .icon-skype{background:#008db8;}
 .social ul li .icon-instagram{background:#b85f00;}
 
+.social ul li a:hover {
+	padding: 10px 30px;
+
+}
+
 #contenedor{
-	width: 728px;
+	width: 1000px;
 	height: auto;
 	margin: auto;
 	position: relative;
