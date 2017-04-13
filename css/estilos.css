@@ -34,8 +34,8 @@
 
 #cuadrado {
      width: 700px; 
-     height: 800px; 
-     border: 4px solid #FFF;
+     height: auto; 
+     border: 2px solid #FFF;
      background: #005883;
 }
 
