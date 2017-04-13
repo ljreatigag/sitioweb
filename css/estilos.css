@@ -34,7 +34,7 @@
 
 #cuadrado {
      width: 728px; 
-     height: 400px; 
+     height: 350px; 
      border: 1px solid #FFF;
      background: #005883;
 }
@@ -58,7 +58,7 @@ h1
 		font-family: verdana;
 		color: #FFFFFF;
 		margin-left: 0px;
-		font-size: 14px;
+		font-size: 15px;
 		text-align: center;
 	}
 
@@ -67,7 +67,7 @@ h2
 		font-family: verdana;
 		color: #FFFFFF;
 		margin-left: 0px;
-		font-size: 12px;
+		font-size: 13px;
 		text-align: left;
 	}
 
