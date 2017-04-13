@@ -32,6 +32,13 @@
 
 }
 
+#cuadrado {
+     width: 700px; 
+     height: 800px; 
+     border: 4px solid #FFF;
+     background: #005883;
+}
+
 
 #contenedor{
 	width: 728px;
@@ -51,7 +58,7 @@ h1
 		font-family: verdana;
 		color: #FFFFFF;
 		margin-left: 0px;
-		font-size: 15px;
+		font-size: 12px;
 		text-align: center;
 	}
 
